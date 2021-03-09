@@ -1,2 +1,2 @@
 # FinalProject
-https://ryankentfinalproject.netlify.app
+https://ryankentfinalproject.netlify.app/index.html
